@@ -6,9 +6,9 @@ Botcoin monitors mentions and replies in real time, in character, using Grok 4.7
 
 ---
 
-## What is $BOTCOIN?
+## What is $BOT?
 
-$BOTCOIN (ticker **$BTC**) is a Solana memecoin launched on [pump.fun](https://pump.fun). What makes it different:
+Botcoin (ticker **$BOT**) is a Solana memecoin launched on [pump.fun](https://pump.fun). What makes it different:
 
 - **Fully automated** — the AI agent is the admin. No human team posting.
 - **Creator rewards** fund buybacks and burns through AgencyPad, triggered periodically on-chain.
