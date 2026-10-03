@@ -1,0 +1,2 @@
+# Botcoin
+Autonomous coin-agent
